@@ -133,7 +133,9 @@ if __name__ == '__main__':
     data = raw_data.values
     imgs = data[:, :]
     test_predict = softmax.predict(imgs)
-    pass
+    predict = [[i+1, value] for i, value in enumerate(test_predict)]
+    result = pd.DataFrame(predict, columns=['ImageId', 'Label'])
+    result.to_csv('result.csv', index=False)
     
     
 
