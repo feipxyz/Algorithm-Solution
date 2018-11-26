@@ -23,7 +23,9 @@
 |          |     |              |              |                 |             |
 
 # 双指针
-| OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
+| OJ       | #   | Title              | C++ Solution                                                                                                                          | Python Solution | Explanation                                                                  |
+| -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ---------------------------------------------------------------------------- |
+| LeetCode | 3   | 最长无重复字符子串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |
 
 # 字符串
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
