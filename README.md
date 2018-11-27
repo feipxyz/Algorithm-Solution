@@ -28,7 +28,9 @@
 | LeetCode | 3   | 最长无重复字符子串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |
 
 # 字符串
-| OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
+| OJ       | #   | Title              | C++ Solution                                                                                 | Python Solution | Explanation |
+| -------- | --- | ------------------ | -------------------------------------------------------------------------------------------- | --------------- | ----------- |
+| LintCode | 212 | 最长无重复字符子串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
 
 # 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
