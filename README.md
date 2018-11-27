@@ -26,9 +26,6 @@
 | -------- | --- | ---------------- | ---------------------------------------------------------------------------------------------------- | --------------- | ----------- |
 | LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp) |                 |             |
 
-## 数组
-| OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
-
 ## 栈
 | OJ       | #   | Title        | C++ Solution | Python Solution | Explanation |
 | -------- | --- | ------------ | ------------ | --------------- | ----------- |
