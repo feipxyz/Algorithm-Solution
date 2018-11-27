@@ -22,9 +22,10 @@
 | LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/GenerateParenthesis.cpp) |                 |             |
 
 ## 树
-| OJ       | #   | Title            | C++ Solution                                                                                         | Python Solution | Explanation |
-| -------- | --- | ---------------- | ---------------------------------------------------------------------------------------------------- | --------------- | ----------- |
-| LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp) |                 |             |
+| OJ       | #   | Title            | C++ Solution                                                                                          | Python Solution | Explanation |
+| -------- | --- | ---------------- | ----------------------------------------------------------------------------------------------------- | --------------- | ----------- |
+| LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)  |                 |             |
+| LeetCode | 144 | 二叉树的前序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp) |                 |             |
 
 ## 栈
 | OJ       | #   | Title        | C++ Solution | Python Solution | Explanation |
