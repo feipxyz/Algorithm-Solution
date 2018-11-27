@@ -26,11 +26,6 @@
 | -------- | --- | ---------------- | ---------------------------------------------------------------------------------------------------- | --------------- | ----------- |
 | LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp) |                 |             |
 
-# 字符串
-| OJ       | #   | Title    | C++ Solution                                                                                 | Python Solution | Explanation |
-| -------- | --- | -------- | -------------------------------------------------------------------------------------------- | --------------- | ----------- |
-| LintCode | 212 | 空格替换 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
-
 # 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
 
