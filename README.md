@@ -2,7 +2,7 @@
 
 - 个人博客地址 [乡间小路](http://www.flyrie.top)
 
-# 动态规划
+## 动态规划
 | OJ       | #   | Title          | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                           |
 | -------- | --- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------------------------------------------------------------------------------- |
 | LeetCode | 10  | 正则表达式匹配 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/RegularExpressionMatching.cpp)           |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |
@@ -16,34 +16,34 @@
 | LintCode | 515 | 房屋染色       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/PaintHouse.cpp)                          |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |
 | LintCode | 516 | 房屋染色 II    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |
 
-# 回溯法
+## 回溯法
 | OJ       | #   | Title    | C++ Solution                                                                                       | Python Solution | Explanation |
 | -------- | --- | -------- | -------------------------------------------------------------------------------------------------- | --------------- | ----------- |
 | LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/GenerateParenthesis.cpp) |                 |             |
 
-# 树
+## 树
 | OJ       | #   | Title            | C++ Solution                                                                                         | Python Solution | Explanation |
 | -------- | --- | ---------------- | ---------------------------------------------------------------------------------------------------- | --------------- | ----------- |
 | LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp) |                 |             |
 
-# 数组
+## 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
 
-# 栈
+## 栈
 | OJ       | #   | Title        | C++ Solution | Python Solution | Explanation |
 | -------- | --- | ------------ | ------------ | --------------- | ----------- |
 | LeetCode | 32  | 最长有效括号 |              |                 |             |
 |          |     |              |              |                 |             |
 
-# 双指针
+## 双指针
 | OJ       | #   | Title              | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  |
 | -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- |
 | LeetCode | 3   | 最长无重复字符子串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |
 
-# 字符串
+## 字符串
 | OJ       | #   | Title    | C++ Solution                                                                                 | Python Solution | Explanation |
 | -------- | --- | -------- | -------------------------------------------------------------------------------------------- | --------------- | ----------- |
 | LintCode | 212 | 空格替换 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
 
-# 数组
+## 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
