@@ -45,9 +45,10 @@
 | LintCode | 212 | 空格替换 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
 
 ## 链表
-| OJ       | #   | Title                | C++ Solution                                                                                        | Python Solution | Explanation | Difficuty |
-| -------- | --- | -------------------- | --------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp) |                 |             | medium    |
+| OJ       | #   | Title                | C++ Solution                                                                                           | Python Solution | Explanation | Difficuty |
+| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | --------- |
+| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)    |                 |             | medium    |
+| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp) |                 |             |           |
 
 ## 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
