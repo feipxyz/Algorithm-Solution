@@ -46,9 +46,10 @@
 | LeetCode | 27  | 移除元素               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveElement.cpp)                              |                 |                                                                              |           |
 
 ## 字符串
-| OJ       | #   | Title    | C++ Solution                                                                                 | Python Solution | Explanation |
-| -------- | --- | -------- | -------------------------------------------------------------------------------------------- | --------------- | ----------- |
-| LintCode | 212 | 空格替换 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
+| OJ       | #   | Title      | C++ Solution                                                                                 | Python Solution | Explanation | Difficuty |
+| -------- | --- | ---------- | -------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
+| LintCode | 212 | 空格替换   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |           |
+| LintCode | 28  | 实现strStr | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)  |                 |             |           |
 
 ## 链表
 | OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Difficuty |
