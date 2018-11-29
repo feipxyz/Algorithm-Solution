@@ -43,6 +43,7 @@
 | -------- | --- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- | --------- |
 | LeetCode | 3   | 最长无重复字符子串     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |           |
 | LeetCode | 26  | 删除排序数组中的重复项 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedArray.cpp)            |                 |                                                                              | easy      |
+| LeetCode | 27  | 移除元素               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveElement.cpp)                              |                 |                                                                              |           |
 
 ## 字符串
 | OJ       | #   | Title    | C++ Solution                                                                                 | Python Solution | Explanation |
