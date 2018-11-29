@@ -31,7 +31,7 @@
 ## 堆
 | OJ       | #   | Title           | C++ Solution                                                                                | Python Solution | Explanation | Difficuty |
 | -------- | --- | --------------- | ------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LeetCode | 23  | 合并k个有序链表 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergeKSortedLists.cpp) |                 |             | hard      |
+| LeetCode | 23  | 合并k个有序链表 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp) |                 |             | hard      |
 
 
 ## 栈
@@ -49,10 +49,11 @@
 | LintCode | 212 | 空格替换 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp) |                 | 剑指offer   |
 
 ## 链表
-| OJ       | #   | Title                | C++ Solution                                                                                           | Python Solution | Explanation | Difficuty |
-| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | --------- |
-| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)    |                 |             | medium    |
-| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp) |                 |             |           |
+| OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Difficuty |
+| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
+| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)     |                 |             | medium    |
+| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |           |
+| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | hard      |
 
 ## 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
