@@ -58,5 +58,11 @@
 | LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |           |
 | LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | hard      |
 
+## 位运算
+| OJ       | #   | Title    | C++ Solution                                                                                              | Python Solution | Explanation | Difficuty |
+| -------- | --- | -------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
+| LeetCode | 29  | 两数相除 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |                 |             | hard      |
+
+
 ## 数组
 | OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
