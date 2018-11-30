@@ -67,4 +67,4 @@
 ## 数组
 | OJ       | #   | Title      | C++ Solution                                                                               | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ---------- | ------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
-| LeetCode | 31  | 下一个排列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/nextPermutation.cpp) |                 |             | important        |
+| LeetCode | 31  | 下一个排列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/NextPermutation.cpp) |                 |             | important        |
