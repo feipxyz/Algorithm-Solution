@@ -3,7 +3,7 @@
 - 个人博客地址 [乡间小路](http://www.flyrie.top)
 
 ## 动态规划
-| OJ       | #   | Title          | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                           | Difficuty |
+| OJ       | #   | Title          | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                           | Importance Leval |
 | -------- | --- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ------------------------------------------------------------------------------------- | --------- |
 | LeetCode | 10  | 正则表达式匹配 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/RegularExpressionMatching.cpp)           |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |           |
 | LeetCode | 322 | 硬币兑换       |                                                                                                                                |                 |                                                                                       |           |
@@ -22,16 +22,16 @@
 | LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/GenerateParenthesis.cpp) |                 |             |
 
 ## 树
-| OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Difficuty |
-| -------- | --- | ---------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | --------- |
-| LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)   |                 |             |           |
-| LeetCode | 144 | 二叉树的前序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)  |                 |             |           |
-| LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | hard      |
+| OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ---------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
+| LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)   |                 |             |                  |
+| LeetCode | 144 | 二叉树的前序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)  |                 |             |                  |
+| LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | important        |
 
 ## 堆
-| OJ       | #   | Title           | C++ Solution                                                                                | Python Solution | Explanation | Difficuty |
-| -------- | --- | --------------- | ------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LeetCode | 23  | 合并k个有序链表 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp) |                 |             | hard      |
+| OJ       | #   | Title           | C++ Solution                                                                                | Python Solution | Explanation | Importance Leval |
+| -------- | --- | --------------- | ------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 23  | 合并k个有序链表 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp) |                 |             | important        |
 
 
 ## 栈
@@ -39,31 +39,32 @@
 | -------- | --- | ------------ | ------------ | --------------- | ----------- |
 
 ## 双指针
-| OJ       | #   | Title                  | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Difficuty |
-| -------- | --- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- | --------- |
-| LeetCode | 3   | 最长无重复字符子串     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |           |
-| LeetCode | 26  | 删除排序数组中的重复项 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedArray.cpp)            |                 |                                                                              | easy      |
-| LeetCode | 27  | 移除元素               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveElement.cpp)                              |                 |                                                                              |           |
+| OJ       | #   | Title                  | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
+| -------- | --- | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- | ---------------------------------------------------------------------------- | ---------------- |
+| LeetCode | 3   | 最长无重复字符子串     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) |                 | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |                  |
+| LeetCode | 26  | 删除排序数组中的重复项 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedArray.cpp)            |                 |                                                                              | important        |
+| LeetCode | 27  | 移除元素               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveElement.cpp)                              |                 |                                                                              |                  |
 
 ## 字符串
-| OJ       | #   | Title                  | C++ Solution                                                                                                     | Python Solution | Explanation | Difficuty |
-| -------- | --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LintCode | 212 | 空格替换               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp)                     |                 | 剑指offer   |           |
-| LintCode | 28  | 实现strStr             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)                      |                 |             | easy      |
-| LintCode | 30  | 与所有单词相关联的字串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SubstringwithConcatenationOfAllWords.cpp) |                 |             | hard      |
+| OJ       | #   | Title                  | C++ Solution                                                                                                     | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LintCode | 212 | 空格替换               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp)                     |                 | 剑指offer   |                  |
+| LintCode | 28  | 实现strStr             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)                      |                 |             | important        |
+| LintCode | 30  | 与所有单词相关联的字串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SubstringwithConcatenationOfAllWords.cpp) |                 |             | important        |
 
 ## 链表
-| OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Difficuty |
-| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)     |                 |             | medium    |
-| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |           |
-| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | hard      |
+| OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Importance Leval |
+| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)     |                 |             | important        |
+| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |                  |
+| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | important        |
 
 ## 位运算
-| OJ       | #   | Title    | C++ Solution                                                                                              | Python Solution | Explanation | Difficuty |
-| -------- | --- | -------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------- | --------- |
-| LeetCode | 29  | 两数相除 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |                 |             | hard      |
-
+| OJ       | #   | Title    | C++ Solution                                                                                              | Python Solution | Explanation | Importance Leval |
+| -------- | --- | -------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 29  | 两数相除 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |                 |             | important        |
 
 ## 数组
-| OJ       | #   | Title                       | C++ Solution | Python Solution | Explanation |
+| OJ       | #   | Title      | C++ Solution                                                                               | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ---------- | ------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
+| LeetCode | 31  | 下一个排列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/nextPermutation.cpp) |                 |             | important        |
