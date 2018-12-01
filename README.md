@@ -60,7 +60,7 @@
 | LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |                   |
 | LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | $\star\star\star$ |
 
-# 二分搜索
+## 二分搜索
 | OJ       | #   | Title                        | C++ Solution                                                                                                                        | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |                 |             | $\star$          |
