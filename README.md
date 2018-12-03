@@ -18,16 +18,17 @@
 | LintCode | 32  | 最长有效括号   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestValidParentheses.cpp)   |                 |                                                                                       |                  |
 
 ## 回溯法
-| OJ       | #   | Title    | C++ Solution                                                                                       | Python Solution | Explanation |
-| -------- | --- | -------- | -------------------------------------------------------------------------------------------------- | --------------- | ----------- |
-| LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/GenerateParenthesis.cpp) |                 |             |
+| OJ       | #   | Title    | C++ Solution                                                                                       | Python Solution | Explanation | Importance Leval |
+| -------- | --- | -------- | -------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/GenerateParenthesis.cpp) |                 |             | ★                |
+| LeetCode | 39  | 组合总数 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTrack/CombinationSum.cpp) |                 |             | ★                |
 
 ## 树
 | OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ---------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
 | LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)   |                 |             |                  |
 | LeetCode | 144 | 二叉树的前序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)  |                 |             |                  |
-| LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | ★★★        |
+| LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | ★★★              |
 
 ## 堆
 | OJ       | #   | Title           | C++ Solution                                                                                | Python Solution | Explanation | Importance Leval |
