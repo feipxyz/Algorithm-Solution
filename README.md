@@ -18,10 +18,11 @@
 | LintCode | 32  | 最长有效括号   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestValidParentheses.cpp)   |                 |                                                                                       |                  |
 
 ## 回溯法
-| OJ       | #   | Title    | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
-| -------- | --- | -------- | ----------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LeetCode | 22  | 括号生成 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/GenerateParenthesis.cpp) |                 |             | ★                |
-| LeetCode | 39  | 组合总数 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSum.cpp)      |                 |             | ★                |
+| OJ       | #   | Title       | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ----------- | ----------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 22  | 括号生成    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/GenerateParenthesis.cpp) |                 |             | ★                |
+| LeetCode | 39  | 组合总数    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSum.cpp)      |                 |             | ★                |
+| LeetCode | 40  | 组合总数 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSumII.cpp)    |                 |             | ★                |
 
 ## 树
 | OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
