@@ -15,7 +15,8 @@
 | LeetCode | 174 | 地下城游戏     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/DungeonGame.cpp)               |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |                  |
 | LintCode | 515 | 房屋染色       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/PaintHouse.cpp)                |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |                  |
 | LintCode | 516 | 房屋染色 II    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/PaintHouse2.cpp)               |                 | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) |                  |
-| LintCode | 32  | 最长有效括号   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestValidParentheses.cpp)   |                 |                                                                                       |                  |
+| LeetCode | 32  | 最长有效括号   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestValidParentheses.cpp)   |                 |                                                                                       |                  |
+| LeetCode | 44  | 通配符匹配     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/WildcardMatching.cpp)          |                 |                                                                                       | ★★★              |
 
 ## 回溯法
 | OJ       | #   | Title       | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
