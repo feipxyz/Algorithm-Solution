@@ -75,7 +75,8 @@
 ## 二分搜索
 | OJ       | #   | Title                        | C++ Solution                                                                                                                        | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |                 |             | ★          |
+| LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |                 |             | ★                |
+| LeetCode | 50  | Pow(x, n)                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Pow_x_n.cpp)                                        |                 |             | ★★★              |
 
 
 ## 位运算
