@@ -30,6 +30,7 @@
 | LeetCode | 39  | 组合总数    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSum.cpp)      |                 |             | ★                |
 | LeetCode | 40  | 组合总数 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSumII.cpp)    |                 |             | ★                |
 | LeetCode | 46  | 全排列      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/Permutations.cpp)        |                 |             | ★★★              |
+| LeetCode | 51  | N皇后       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/N-Queens.cpp)            |                 |             | ★★★              |
 
 ## 树
 | OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
