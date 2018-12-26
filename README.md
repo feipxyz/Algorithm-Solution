@@ -22,6 +22,7 @@
 | OJ       | #   | Title       | C++ Solution                                                                           | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ----------- | -------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | LeetCode | 45  | 跳跃游戏 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGameII.cpp) |                 |             | ★★★              |
+| LeetCode | 55  | 跳跃游戏 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGame.cpp) |                 |             | ★★★              |
 
 ## 回溯法
 | OJ       | #   | Title       | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
