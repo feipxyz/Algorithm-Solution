@@ -68,11 +68,12 @@
 | LeetCode | 49  | 字母异位词分组         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/GroupAnagrams.cpp)                        |                 |             | ★                |
 
 ## 链表
-| OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Importance Leval  |
-| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ----------------- |
-| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)     |                 |             | ★★★ |
-| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |                   |
-| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | ★★★ |
+| OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Importance Leval |
+| -------- | --- | -------------------- | ------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)     |                 |             | ★★★              |
+| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)  |                 |             |                  |
+| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp) |                 |             | ★★★              |
+| LeetCode | 61  | 旋转链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/RotateList.cpp) |                 |             | ★★★              |
 
 ## 二分搜索
 | OJ       | #   | Title                        | C++ Solution                                                                                                                        | Python Solution | Explanation | Importance Leval |
