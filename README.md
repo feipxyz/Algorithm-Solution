@@ -47,8 +47,9 @@
 
 
 ## 栈
-| OJ       | #   | Title        | C++ Solution | Python Solution | Explanation |
-| -------- | --- | ------------ | ------------ | --------------- | ----------- |
+| OJ       | #   | Title    | C++ Solution                                                                            | Python Solution | Explanation | Importance Leval |
+| -------- | --- | -------- | --------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 71  | 简化路径 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp) |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                  | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
