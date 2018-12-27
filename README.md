@@ -80,6 +80,7 @@
 | -------- | --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |                 |             | ★                |
 | LeetCode | 50  | Pow(x, n)                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Pow_x_n.cpp)                                        |                 |             | ★★★              |
+| LeetCode | 69  | Sqrt(x)                      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Sqrt_x.cpp)                                        |                 |             | ★★★              |
 
 
 ## 位运算
