@@ -58,6 +58,7 @@
 | LeetCode | 26  | 删除排序数组中的重复项 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedArray.cpp)            |                 |                                                                              | ★★★              |
 | LeetCode | 27  | 移除元素               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveElement.cpp)                              |                 |                                                                              |                  |
 | LeetCode | 42  | 接雨水                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/TrappingRainWater.cpp)                          |                 |                                                                              | ★★★              |
+| LeetCode | 75  | 颜色分类               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/SortColors.cpp)                                 |                 |                                                                              | ★★★              |
 
 ## 字符串
 | OJ       | #   | Title                  | C++ Solution                                                                                                     | Python Solution | Explanation | Importance Leval |
