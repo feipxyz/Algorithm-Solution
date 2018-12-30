@@ -65,6 +65,7 @@
 | LeetCode | 75  | 颜色分类                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/SortColors.cpp)                                 |                 |                                                                              | ★★★              |
 | LeetCode | 76  | 最小覆盖子串                | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/MinimumWindowSubstring.cpp)                     |                 |                                                                              | ★★★              |
 | LeetCode | 82  | 删除排序链表中的重复元素 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedListII.cpp)           |                 |                                                                              | ★★★              |
+| LeetCode | 88  | 合并两个有序数组            | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/MergeSortedArray.cpp)                           |                 |                                                                              | ★★★              |
 
 ## 字符串
 | OJ       | #   | Title                  | C++ Solution                                                                                                     | Python Solution | Explanation | Importance Leval |
