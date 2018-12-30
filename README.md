@@ -48,10 +48,11 @@
 
 
 ## 栈
-| OJ       | #   | Title    | C++ Solution                                                                            | Python Solution | Explanation | Importance Leval |
-| -------- | --- | -------- | --------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LeetCode | 71  | 简化路径 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp) |                 |             | ★★★              |
+| OJ       | #   | Title              | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
+| LeetCode | 71  | 简化路径           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |                 |             | ★★★              |
 | LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
+| LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp) |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
