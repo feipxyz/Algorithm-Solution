@@ -42,16 +42,16 @@
 | LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | ★★★              |
 
 ## 堆
-| OJ       | #   | Title              | C++ Solution                                                                                | Python Solution | Explanation | Importance Leval |
-| -------- | --- | ------------------ | ------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LeetCode | 23  | 合并k个有序链表    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp) |                 |             | ★★★              |
-| LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
+| OJ       | #   | Title              | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
+| -------- | --- | ------------------ | ----------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 23  | 合并k个有序链表    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp)           |                 |             | ★★★              |
 
 
 ## 栈
 | OJ       | #   | Title    | C++ Solution                                                                            | Python Solution | Explanation | Importance Leval |
 | -------- | --- | -------- | --------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | LeetCode | 71  | 简化路径 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp) |                 |             | ★★★              |
+| LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
