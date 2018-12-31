@@ -1,4 +1,4 @@
-// 1-pass
+// 2-pass
 class Solution {
 public:
     int longestMountain(vector<int>& A) {
@@ -20,6 +20,34 @@ public:
                 nMax = max(nMax, up[i] + down[i] + 1);
         }
 
+        return nMax;
+    }
+};
+
+// 1-pass
+class Solution {
+public:
+    int longestMountain(vector<int>& A) {
+        int n = A.size();
+        if (n < 3) return 0;
+        int nMax = 0;
+        int left = 0;
+        int right = 0;
+
+        while (left < n - 2)
+        {
+            while (left < n - 1 && A[left] >= A[left + 1])
+                left++;
+            right = left + 1;
+            while (right < n - 1 && A[right] < A[right + 1])
+                right++;
+            while (right < n - 1 && A[right] > A[right + 1])
+            {
+                right++;
+                nMax = max(nMax, right - left + 1);
+            }
+            left = right;
+        }
         return nMax;
     }
 };
