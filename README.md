@@ -33,6 +33,7 @@
 | LeetCode | 46  | 全排列      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/Permutations.cpp)        |                 |             | ★★★              |
 | LeetCode | 51  | N皇后       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/N-Queens.cpp)            |                 |             | ★★★              |
 | LeetCode | 79  | 单词搜索    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/WordSearch.cpp)          |                 |             | ★★★              |
+| LeetCode | 93  | 复原IP地址  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/RestoreIPAddresses.cpp)  |                 |             | ★★★              |
 
 ## 树
 | OJ       | #   | Title            | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
