@@ -41,6 +41,7 @@
 | LeetCode | 94  | 二叉树的中序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)   |                 |             |                  |
 | LeetCode | 144 | 二叉树的前序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)  |                 |             |                  |
 | LeetCode | 145 | 二叉树的后序遍历 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp) |                 |             | ★★★              |
+| LeetCode | 95  | 不同的二叉搜索树 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/UniqueBinarySearchTreesII.cpp) |                 |             | ★★★              |
 
 ## 堆
 | OJ       | #   | Title              | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
