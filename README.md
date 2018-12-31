@@ -18,6 +18,7 @@
 | LeetCode | 32  | 最长有效括号   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestValidParentheses.cpp)   |                 |                                                                                       |                  |
 | LeetCode | 44  | 通配符匹配     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/WildcardMatching.cpp)          |                 |                                                                                       | ★★★              |
 | LeetCode | 97  | 交错字符串     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/InterleavingString.cpp)        |                 |                                                                                       | ★★★              |
+| LeetCode | 91  | 编码方法       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/DecodeWays.cpp)        |                 |                                                                                       | ★★★              |
 
 ## 贪心算法
 | OJ       | #   | Title       | C++ Solution                                                                           | Python Solution | Explanation | Importance Leval |
