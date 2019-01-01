@@ -59,7 +59,7 @@
 | LeetCode | 71  | 简化路径           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |                 |             | ★★★              |
 | LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
 | LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |                 |             | ★★★              |
-| LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)            |                 |             | ★★★              |
+| LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)           |                 |             | ★                |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
@@ -83,6 +83,7 @@
 | LeetCode | 30  | 与所有单词相关联的字串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SubstringwithConcatenationOfAllWords.cpp) |                 |             | ★★★              |
 | LeetCode | 43  | 字符串相乘             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MultiplyStrings.cpp)                      |                 |             | ★★★              |
 | LeetCode | 49  | 字母异位词分组         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/GroupAnagrams.cpp)                        |                 |             | ★                |
+| LeetCode | 738 | 单调递增的数字         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MonotoneIncreasingDigits.cpp)             |                 |             | ★★★              |
 
 ## 链表
 | OJ       | #   | Title                | C++ Solution                                                                                            | Python Solution | Explanation | Importance Leval |
