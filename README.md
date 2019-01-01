@@ -58,7 +58,8 @@
 | -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
 | LeetCode | 71  | 简化路径           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |                 |             | ★★★              |
 | LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
-| LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp) |                 |             | ★★★              |
+| LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |                 |             | ★★★              |
+| LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)            |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
