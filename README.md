@@ -61,6 +61,7 @@
 | LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |                 |             | ★★★              |
 | LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |                 |             | ★★★              |
 | LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)           |                 |             | ★                |
+| LeetCode | 496 | 下一个更大元素 I   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementI.cpp)         |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
