@@ -62,7 +62,8 @@
 | LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |                 |             | ★★★              |
 | LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)           |                 |             | ★                |
 | LeetCode | 496 | 下一个更大元素 I   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementI.cpp)         |                 |             | ★★★              |
-| LeetCode | 503 | 下一个更大元素 II  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementII.cpp)         |                 |             | ★★★              |
+| LeetCode | 503 | 下一个更大元素 II  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementII.cpp)        |                 |             | ★                |
+| LeetCode | 402 | 移掉K位数字        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/RemoveKDigits.cpp)               |                 |             | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                       | C++ Solution                                                                                                                   | Python Solution | Explanation                                                                  | Importance Leval |
