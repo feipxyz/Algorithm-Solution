@@ -34,6 +34,11 @@
 | LeetCode | 45  | 跳跃游戏 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGameII.cpp) |                 |             | ★★★              |
 | LeetCode | 55  | 跳跃游戏 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGame.cpp) |                 |             | ★★★              |
 
+## 分治法
+| OJ       | #   | Title                 | C++ Solution                                                                                           | Python Solution | Explanation | Importance Leval |
+| -------- | --- | --------------------- | ------------------------------------------------------------------------------------------------------ | --------------- | ----------- | ---------------- |
+| LeetCode | 215 | 数组中的第K个最大元素 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Divide%20and%20Conquer/KthLargestElementInAnArray.cpp) |                 |             | ★★★              |
+
 ## 回溯法
 | OJ       | #   | Title       | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ----------- | ----------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
