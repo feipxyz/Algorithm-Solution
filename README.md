@@ -126,9 +126,10 @@
 
 
 ## 位运算
-| OJ       | #   | Title    | C++ Solution                                                                                              | Python Solution | Explanation | Importance Leval |
-| -------- | --- | -------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LeetCode | 29  | 两数相除 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |                 |             | ★★★        |
+| OJ       | #   | Title     | C++ Solution                                                                                              | Python Solution | Explanation | Importance Leval |
+| -------- | --- | --------- | --------------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
+| LeetCode | 29  | 两数相除  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |                 |             | ★★★              |
+| LeetCode | 191 | 位1的个数 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/NumberOf1Bits.cpp) |                 |             | ★★★              |
 
 ## 数组
 | OJ       | #   | Title            | C++ Solution                                                                                          | Python Solution | Explanation | Importance Leval |
