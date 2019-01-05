@@ -137,4 +137,5 @@
 | LeetCode | 31  | 下一个排列       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/NextPermutation.cpp)            |                 |             | ★★★              |
 | LeetCode | 33  | 搜索旋转数组     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SearchInRotatedSortedArray.cpp) |                 |             | ★★★              |
 | LeetCode | 41  | 第一个缺失的正数 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/FirstMissingPositive.cpp)       |                 |             | ★★★              |
-| LeetCode | 57  | 插入区间         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/InsertInterval.cpp)       |                 |             | ★★★              |
+| LeetCode | 57  | 插入区间         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/InsertInterval.cpp)             |                 |             | ★★★              |
+| LeetCode | 189 | 旋转数组         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/RotateArray.cpp)             |                 |             | ★★★              |
