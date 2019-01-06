@@ -28,6 +28,7 @@
 | LeetCode | 516 | 最长回文子序列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestPalindromicSubsequence.cpp) |                 |                                                                                       | ★★★              |
 | LeetCode | 300 | 最长上升子序列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestIncreasingSubsequence.cpp)  |                 |                                                                                       | ★★★              |
 | LeetCode | 152 | 乘积最大子序列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/MaximumProductSubarray.cpp)        |                 |                                                                                       | ★★★              |
+| LeetCode | 139 | 单词拆分       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/WordBreak.cpp)                     |                 |                                                                                       | ★★★              |
 
 ## 贪心算法
 | OJ       | #   | Title       | C++ Solution                                                                           | Python Solution | Explanation | Importance Leval |
