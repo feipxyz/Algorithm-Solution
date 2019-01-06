@@ -29,6 +29,7 @@
 | LeetCode | 300 | 最长上升子序列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/LongestIncreasingSubsequence.cpp)  |                 |                                                                                       | ★★★              |
 | LeetCode | 152 | 乘积最大子序列 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/MaximumProductSubarray.cpp)        |                 |                                                                                       | ★★★              |
 | LeetCode | 139 | 单词拆分       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/WordBreak.cpp)                     |                 |                                                                                       | ★★★              |
+| LeetCode | 135 | 分发糖果       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/Candy.cpp)                         |                 |                                                                                       | ★★★              |
 
 ## 贪心算法
 | OJ       | #   | Title       | C++ Solution                                                                           | Python Solution | Explanation | Importance Leval |
