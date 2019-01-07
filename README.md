@@ -32,6 +32,7 @@
 | LeetCode | 135 | 分发糖果           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/Candy.cpp)                         |                 |                                                                                       | ★★★              |
 | LeetCode | 132 | 分割回文串 II      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/PalindromePartitioningII.cpp)      |                 |                                                                                       | ★★★              |
 | LeetCode | 121 | 买卖股票的最佳时机 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/BestTimeToBuyAndSellStock.cpp)     |                 |                                                                                       | ★★★              |
+| LeetCode | 120 | 三角形最小路径和   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/Triangle.cpp)                      |                 |                                                                                       | ★★★              |
 
 ## 贪心算法
 | OJ       | #   | Title                 | C++ Solution                                                                                            | Python Solution | Explanation | Importance Leval |
