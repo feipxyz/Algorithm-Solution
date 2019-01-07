@@ -1,4 +1,4 @@
-# Algorithm-Solution
+# Algorithm Solution
 
 - 个人博客地址 [乡间小路](http://www.flyrie.top)
 
