@@ -5,7 +5,8 @@
 ## 排序
 | OJ       | #   | Title       | C++ Solution                                                                                       | Python Solution | Explanation | Importance Leval |
 | -------- | --- | ----------- | -------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
-| LintCode | 464 | 整数排序 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegersII_QuickSort.cpp) | 快速排序        |             |                  |
+| LintCode | 464 | 整数排序 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegersII_QuickSort.cpp) | 快速排序        |             | ★★★              |
+| LintCode | 463 | 整数排序    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegers_Bubble.cpp)      | 冒泡排序        |             | ★★★              |
 
 
 ## 动态规划
