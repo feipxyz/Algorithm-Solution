@@ -7,6 +7,8 @@
 | -------- | --- | ----------- | -------------------------------------------------------------------------------------------------- | --------------- | ----------- | ---------------- |
 | LintCode | 464 | 整数排序 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegersII_QuickSort.cpp) | 快速排序        |             | ★★★              |
 | LintCode | 463 | 整数排序    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegers_Bubble.cpp)      | 冒泡排序        |             | ★★★              |
+| LintCode | 463 | 整数排序    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegers_Select.cpp)      | 选择排序        |             | ★★★              |
+| LintCode | 463 | 整数排序    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegers_Insertion.cpp)   | 插入排序        |             | ★★★              |
 
 
 ## 动态规划
