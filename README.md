@@ -3,7 +3,7 @@
 - 个人博客地址 [乡间小路](http://www.flyrie.top)
 
 ## 排序
-| OJ       | #   | Title       | C++ Solution                                                                                       | Explanation | Importance Leval |
+| OJ       | #   | Title       | C++ Solution                                                                                       | Illustration | Importance Leval |
 | -------- | --- | ----------- | -------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LintCode | 464 | 整数排序 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegersII_QuickSort.cpp) | 快速排序    | ★★★              |
 | LintCode | 463 | 整数排序    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Sort/SortIntegers_Bubble.cpp)      | 冒泡排序    | ★★★              |
@@ -12,7 +12,7 @@
 
 
 ## 动态规划
-| OJ       | #   | Title              | C++ Solution                                                                                                             | Explanation                                                                           | Importance Leval |
+| OJ       | #   | Title              | C++ Solution                                                                                                             | Illustration                                                                           | Importance Leval |
 | -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- | ---------------- |
 | LeetCode | 10  | 正则表达式匹配     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/RegularExpressionMatching.cpp)     | [动态规划解题](http://flyrie.top/2018/08/15/Dynamic_Programming_Algorithm_Solutions/) | ★★★              |
 | LeetCode | 322 | 硬币兑换           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Dynamic%20Programming/CoinChange.cpp)                    |                                                                                       | ★★★              |
@@ -39,7 +39,7 @@
 
 
 ## 贪心算法
-| OJ       | #   | Title                 | C++ Solution                                                                                            | Explanation | Importance Leval |
+| OJ       | #   | Title                 | C++ Solution                                                                                            | Illustration | Importance Leval |
 | -------- | --- | --------------------- | ------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 45  | 跳跃游戏 II           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGameII.cpp)                  |             | ★★★              |
 | LeetCode | 55  | 跳跃游戏              | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/JumpGame.cpp)                    |             | ★★★              |
@@ -47,12 +47,12 @@
 | LeetCode | 122 | 买卖股票的最佳时机 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/BestTimeToBuyAndSellStockII.cpp) |             | ★★★              |
 
 ## 分治法
-| OJ       | #   | Title                 | C++ Solution                                                                                                           | Explanation | Importance Leval |
+| OJ       | #   | Title                 | C++ Solution                                                                                                           | Illustration | Importance Leval |
 | -------- | --- | --------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 215 | 数组中的第K个最大元素 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Divide%20and%20Conquer/KthLargestElementInAnArray.cpp) |             | ★★★              |
 
 ## 回溯法
-| OJ       | #   | Title       | C++ Solution                                                                                          | Explanation | Importance Leval |
+| OJ       | #   | Title       | C++ Solution                                                                                          | Illustration | Importance Leval |
 | -------- | --- | ----------- | ----------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 22  | 括号生成    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/GenerateParenthesis.cpp) |             | ★                |
 | LeetCode | 39  | 组合总数    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/CombinationSum.cpp)      |             | ★                |
@@ -64,7 +64,7 @@
 | LeetCode | 140 | 单词拆分 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/WordBreakII.cpp)         |             | ★★★              |
 
 ## 树
-| OJ                 | #   | Title               | C++ Solution                                                                                                                 | Explanation | Importance Leval |
+| OJ                 | #   | Title               | C++ Solution                                                                                                                 | Illustration | Importance Leval |
 | ------------------ | --- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode           | 94  | 二叉树的中序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)                         |             |                  |
 | LeetCode           | 144 | 二叉树的前序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)                        |             |                  |
@@ -75,14 +75,14 @@
 | LintCode 剑指offer | 98  | 重建二叉树          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |             | ★★★              |
 
 ## 堆
-| OJ       | #   | Title                 | C++ Solution                                                                                         | Explanation | Importance Leval |
+| OJ       | #   | Title                 | C++ Solution                                                                                         | Illustration | Importance Leval |
 | -------- | --- | --------------------- | ---------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 23  | 合并k个有序链表       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/MergekSortedLists.cpp)          |             | ★★★              |
 | LeetCode | 215 | 数组中的第K个最大元素 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Heap/KthLargestElementInAnArray.cpp) |             | ★★★              |
 
 
 ## 栈
-| OJ       | #   | Title              | C++ Solution                                                                                           | Explanation | Importance Leval |
+| OJ       | #   | Title              | C++ Solution                                                                                           | Illustration | Importance Leval |
 | -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------ | ----------- | ---------------- |
 | LeetCode | 71  | 简化路径           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |             | ★★★              |
 | LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |             | ★★★              |
@@ -93,7 +93,7 @@
 | LeetCode | 402 | 移掉K位数字        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/RemoveKDigits.cpp)               |             | ★★★              |
 
 ## 双指针
-| OJ       | #   | Title                       | C++ Solution                                                                                                                   | Explanation                                                                  | Importance Leval |
+| OJ       | #   | Title                       | C++ Solution                                                                                                                   | Illustration                                                                  | Importance Leval |
 | -------- | --- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- | ---------------- |
 | LeetCode | 3   | 最长无重复字符子串          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestSubstringWithoutRepeatingCharacters.cpp) | [双指针解题](http://flyrie.top/2018/08/15/Two_Pointers_Algorithm_Solutions/) |                  |
 | LeetCode | 26  | 删除排序数组中的重复项      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveDuplicatesFromSortedArray.cpp)            |                                                                              | ★★★              |
@@ -108,7 +108,7 @@
 | LeetCode | 283 | 移动零                      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/MoveZeroes.cpp)                                 |                                                                              | ★★★              |
 
 ## 字符串
-| OJ       | #   | Title                  | C++ Solution                                                                                                     | Explanation | Importance Leval |
+| OJ       | #   | Title                  | C++ Solution                                                                                                     | Illustration | Importance Leval |
 | -------- | --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LintCode | 212 | 空格替换               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp)                     | 剑指offer   |                  |
 | LeetCode | 28  | 实现strStr             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)                      |             | ★★★              |
@@ -118,7 +118,7 @@
 | LeetCode | 738 | 单调递增的数字         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MonotoneIncreasingDigits.cpp)             |             | ★★★              |
 
 ## 链表
-| OJ       | #   | Title                | C++ Solution                                                                                               | Explanation | Importance Leval |
+| OJ       | #   | Title                | C++ Solution                                                                                               | Illustration | Importance Leval |
 | -------- | --- | -------------------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)        |             | ★★★              |
 | LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)     |             |                  |
@@ -130,7 +130,7 @@
 | LeetCode | 237 | 删除链表中的节点     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/DeleteNodeInALinkedList.cpp) |             | ★★★              |
 
 ## 二分搜索
-| OJ       | #   | Title                        | C++ Solution                                                                                                                        | Explanation | Importance Leval |
+| OJ       | #   | Title                        | C++ Solution                                                                                                                        | Illustration | Importance Leval |
 | -------- | --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |             | ★                |
 | LeetCode | 50  | Pow(x, n)                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Pow_x_n.cpp)                                        |             | ★★★              |
@@ -140,14 +140,14 @@
 
 
 ## 位运算
-| OJ       | #   | Title            | C++ Solution                                                                                              | Explanation | Importance Leval |
+| OJ       | #   | Title            | C++ Solution                                                                                              | Illustration | Importance Leval |
 | -------- | --- | ---------------- | --------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode | 29  | 两数相除         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |             | ★★★              |
 | LeetCode | 191 | 位1的个数        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/NumberOf1Bits.cpp)     |             | ★★★              |
 | LeetCode | 136 | 只出现一次的数字 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/SingleNumber.cpp)      |             | ★★★              |
 
 ## 数组
-| OJ                 | #   | Title                      | C++ Solution                                                                                               | Explanation | Importance Leval |
+| OJ                 | #   | Title                      | C++ Solution                                                                                               | Illustration | Importance Leval |
 | ------------------ | --- | -------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
 | LeetCode           | 31  | 下一个排列                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/NextPermutation.cpp)                 |             | ★★★              |
 | LeetCode           | 33  | 搜索旋转数组               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SearchInRotatedSortedArray.cpp)      |             | ★★★              |
