@@ -9,49 +9,27 @@ public:
         if (matrix.empty() || matrix[0].empty())
             return 0;
         // write your code here
-        int m = matrix.size();
-        int n = matrix[0].size();
-
-        int up = 0;
-        int right = n - 1;
-        int bottom = m - 1;
-        int left = 0;
         int total = 0;
-        while (up <= bottom && right >= left)
+        int row = matrix.size() - 1;
+        int col = 0;
+        while (row >= 0 && col < matrix[0].size())
         {
-            if (matrix[up][right] > target)
+            if (matrix[row][col] > target)
             {
-                right--;
+                row--;
             }
-            else if (matrix[up][right] == target)
+            else if (matrix[row][col] < target)
+            {
+                col++;
+            }
+            else
             {
                 total++;
-                right--;
-            }
-            else if (matrix[up][right] < target)
-            {
-                up++;
-            }
-
-            if (up > bottom || right < left)
-            {
-                break;
-            }
-
-            if (matrix[bottom][left] < target)
-            {
-                left++;
-            }
-            else if (matrix[bottom][left] == target)
-            {
-                total++;
-                left++;
-            }
-            else if (matrix[bottom][left] > target)
-            {
-                bottom--;
+                row--;
+                col++;
             }
         }
+
         return total;
     }
 };
