@@ -147,14 +147,15 @@
 | LeetCode | 136 | 只出现一次的数字 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/SingleNumber.cpp)      |             | ★★★              |
 
 ## 数组
-| OJ                 | #   | Title                      | C++ Solution                                                                                               | Illustration | Importance Leval |
-| ------------------ | --- | -------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode           | 31  | 下一个排列                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/NextPermutation.cpp)                 |             | ★★★              |
-| LeetCode           | 33  | 搜索旋转数组               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SearchInRotatedSortedArray.cpp)      |             | ★★★              |
-| LeetCode           | 41  | 第一个缺失的正数           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/FirstMissingPositive.cpp)            |             | ★★★              |
-| LeetCode           | 57  | 插入区间                   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/InsertInterval.cpp)                  |             | ★★★              |
-| LeetCode           | 189 | 旋转数组                   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/RotateArray.cpp)                     |             | ★★★              |
-| LintCode 剑指offer | 159 | 寻找旋转排序数组中的最小值 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/FindMinimumInRotatedSortedArray.cpp) |             | ★★★              |
+| OJ       | #   | Title                      | C++ Solution                                                                                               | Illustration | Importance Leval |
+| -------- | --- | -------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 31  | 下一个排列                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/NextPermutation.cpp)                 |              | ★★★              |
+| LeetCode | 33  | 搜索旋转数组               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SearchInRotatedSortedArray.cpp)      |              | ★★★              |
+| LeetCode | 41  | 第一个缺失的正数           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/FirstMissingPositive.cpp)            |              | ★★★              |
+| LeetCode | 57  | 插入区间                   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/InsertInterval.cpp)                  |              | ★★★              |
+| LeetCode | 189 | 旋转数组                   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/RotateArray.cpp)                     |              | ★★★              |
+| LintCode | 159 | 寻找旋转排序数组中的最小值 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/FindMinimumInRotatedSortedArray.cpp) | 剑指offer    | ★★★              |
+| LintCode | 38  | 搜索二维矩阵 II            | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SearchA2DMatrixII.cpp)               | 剑指offer    | ★★★              |
 
 ## 每日记录
 | 日期       | 题目                                                                                                                                   |
@@ -162,3 +163,4 @@
 | 2019-01-11 | [反转链表](https://leetcode.com/problems/reverse-linked-list/)                                                                         |
 | 2019-01-11 | [寻找旋转排序数组中的最小值](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/description?_from=ladder&&fromId=6) |
 | 2019-01-11 | [重建二叉树](https://www.lintcode.com/problem/construct-binary-tree-from-preorder-and-inorder-traversal/description)                   |
+| 2019-01-12 | [搜索二维矩阵 II](https://www.lintcode.com/problem/search-a-2d-matrix-ii/description?_from=ladder&&fromId=6)                           | 
