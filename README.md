@@ -107,6 +107,7 @@
 | LeetCode | 845 | 数组中的最长山脉                                                                                                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/LongestMountainInArray.cpp)                     |                                                                              | ★★★              |
 | LeetCode | 283 | 移动零                                                                                                              | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/MoveZeroes.cpp)                                 |                                                                              | ★★★              |
 | LintCode | 373 | [奇偶分割数组](https://www.lintcode.com/problem/partition-array-by-odd-and-even/description?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/PartitionArrayByOddAndEven.cpp)                 | 剑指offer                                                                    | ★★★              |
+| leetCode | 19  | [删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveNthNodeFromEndOfList.cpp)                 | 剑指offer                                                                    | ★★★              |
 
 ## 字符串
 | OJ       | #   | Title                  | C++ Solution                                                                                                     | Illustration | Importance Leval |
@@ -165,4 +166,5 @@
 | 2019-01-11 | [寻找旋转排序数组中的最小值](https://www.lintcode.com/problem/find-minimum-in-rotated-sorted-array/description?_from=ladder&&fromId=6) |
 | 2019-01-11 | [重建二叉树](https://www.lintcode.com/problem/construct-binary-tree-from-preorder-and-inorder-traversal/description)                   |
 | 2019-01-12 | [搜索二维矩阵 II](https://www.lintcode.com/problem/search-a-2d-matrix-ii/description?_from=ladder&&fromId=6)                           |
-| 2019-01-13 | [奇偶分割数组](https://www.lintcode.com/problem/partition-array-by-odd-and-even/description?_from=ladder&&fromId=6)                    | 
+| 2019-01-13 | [奇偶分割数组](https://www.lintcode.com/problem/partition-array-by-odd-and-even/description?_from=ladder&&fromId=6)                    |
+| 2019-01-13 | [删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                             | 
