@@ -121,15 +121,14 @@
 
 ## 链表
 | OJ       | #   | Title                | C++ Solution                                                                                               | Illustration | Importance Leval |
-| -------- | --- | -------------------- | ---------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)        |             | ★★★              |
-| LeetCode | 21  | 合并两个有序链表     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/MergeTwoSortedLists.cpp)     |             |                  |
-| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp)    |             | ★★★              |
-| LeetCode | 61  | 旋转链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/RotateList.cpp)              |             | ★★★              |
-| LeetCode | 86  | 分割链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/PartitionList.cpp)           |             | ★★★              |
-| LeetCode | 206 | 反转链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedList.cpp)       |             | ★★★              |
-| LeetCode | 92  | 反转链表 II          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedListII.cpp)     |             | ★★★              |
-| LeetCode | 237 | 删除链表中的节点     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/DeleteNodeInALinkedList.cpp) |             | ★★★              |
+| -------- | --- | -------------------- | ---------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 24  | 两两交换链表中的节点 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/SwapNodesInPairs.cpp)        |              | ★★★              |
+| LeetCode | 25  | k个一组翻转链表      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseNodesInkGroup.cpp)    |              | ★★★              |
+| LeetCode | 61  | 旋转链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/RotateList.cpp)              |              | ★★★              |
+| LeetCode | 86  | 分割链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/PartitionList.cpp)           |              | ★★★              |
+| LeetCode | 206 | 反转链表             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedList.cpp)       |              | ★★★              |
+| LeetCode | 92  | 反转链表 II          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedListII.cpp)     |              | ★★★              |
+| LeetCode | 237 | 删除链表中的节点     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/DeleteNodeInALinkedList.cpp) |              | ★★★              |
 
 ## 二分搜索
 | OJ       | #   | Title                        | C++ Solution                                                                                                                        | Illustration | Importance Leval |
@@ -167,4 +166,4 @@
 | 2019-01-11 | [重建二叉树](https://www.lintcode.com/problem/construct-binary-tree-from-preorder-and-inorder-traversal/description)                   |
 | 2019-01-12 | [搜索二维矩阵 II](https://www.lintcode.com/problem/search-a-2d-matrix-ii/description?_from=ladder&&fromId=6)                           |
 | 2019-01-13 | [奇偶分割数组](https://www.lintcode.com/problem/partition-array-by-odd-and-even/description?_from=ladder&&fromId=6)                    |
-| 2019-01-13 | [删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                             | 
+| 2019-01-13 | [删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                                             |
