@@ -64,15 +64,16 @@
 | LeetCode | 140 | 单词拆分 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/BackTracking/WordBreakII.cpp)         |             | ★★★              |
 
 ## 树
-| OJ                 | #   | Title               | C++ Solution                                                                                                                 | Illustration | Importance Leval |
-| ------------------ | --- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode           | 94  | 二叉树的中序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)                         |             |                  |
-| LeetCode           | 144 | 二叉树的前序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)                        |             |                  |
-| LeetCode           | 145 | 二叉树的后序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp)                       |             | ★★★              |
-| LeetCode           | 95  | 不同的二叉搜索树 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/UniqueBinarySearchTreesII.cpp)                          |             | ★★★              |
-| LeetCode           | 96  | 不同的二叉搜索树    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/UniqueBinarySearchTrees.cpp)                            |             | ★★★              |
-| LeetCode           | 98  | 验证二叉搜索树      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/ValidateBinarySearchTree.cpp)                           |             | ★★★              |
-| LintCode 剑指offer | 98  | 重建二叉树          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) |             | ★★★              |
+| OJ       | #   | Title               | C++ Solution                                                                                                                 | Illustration | Importance Leval |
+| -------- | --- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 94  | 二叉树的中序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeInorderTraversal.cpp)                         |              |                  |
+| LeetCode | 144 | 二叉树的前序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePreorderTraversal.cpp)                        |              |                  |
+| LeetCode | 145 | 二叉树的后序遍历    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreePostorderTraversal.cpp)                       |              | ★★★              |
+| LeetCode | 95  | 不同的二叉搜索树 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/UniqueBinarySearchTreesII.cpp)                          |              | ★★★              |
+| LeetCode | 96  | 不同的二叉搜索树    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/UniqueBinarySearchTrees.cpp)                            |              | ★★★              |
+| LeetCode | 98  | 验证二叉搜索树      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/ValidateBinarySearchTree.cpp)                           |              | ★★★              |
+| LintCode | 98  | 重建二叉树          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) | 剑指offer    | ★★★              |
+| LintCode | 245 | 子树                | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/Subtree.cpp)                                            | 剑指offer    | ★★★              |
 
 ## 堆
 | OJ       | #   | Title                 | C++ Solution                                                                                         | Illustration | Importance Leval |
