@@ -84,15 +84,16 @@
 
 
 ## 栈
-| OJ       | #   | Title              | C++ Solution                                                                                           | Illustration | Importance Leval |
-| -------- | --- | ------------------ | ------------------------------------------------------------------------------------------------------ | ----------- | ---------------- |
-| LeetCode | 71  | 简化路径           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |             | ★★★              |
-| LeetCode | 84  | 柱状图中最大的矩形 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |             | ★★★              |
-| LeetCode | 85  | 最大矩形           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |             | ★★★              |
-| LeetCode | 739 | 每日温度           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)           |             | ★                |
-| LeetCode | 496 | 下一个更大元素 I   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementI.cpp)         |             | ★★★              |
-| LeetCode | 503 | 下一个更大元素 II  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementII.cpp)        |             | ★                |
-| LeetCode | 402 | 移掉K位数字        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/RemoveKDigits.cpp)               |             | ★★★              |
+| OJ       | #   | Title                                                                                             | C++ Solution                                                                                           | Illustration | Importance Leval |
+| -------- | --- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------ | ---------------- |
+| LeetCode | 71  | 简化路径                                                                                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/SimplifyPath.cpp)                |              | ★★★              |
+| LeetCode | 84  | 柱状图中最大的矩形                                                                                | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/LargestRectangleInHistogram.cpp) |              | ★★★              |
+| LeetCode | 85  | 最大矩形                                                                                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MaximalRectangle.cpp)            |              | ★★★              |
+| LeetCode | 739 | 每日温度                                                                                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/DailyTemperatures.cpp)           |              | ★                |
+| LeetCode | 496 | 下一个更大元素 I                                                                                  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementI.cpp)         |              | ★★★              |
+| LeetCode | 503 | 下一个更大元素 II                                                                                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/NextGreaterElementII.cpp)        |              | ★                |
+| LeetCode | 402 | 移掉K位数字                                                                                       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/RemoveKDigits.cpp)               |              | ★★★              |
+| LintCode | 12  | [带最小值操作的栈](https://www.lintcode.com/problem/min-stack/description?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Stack/MinStack.cpp)                    |              | ★★★              |
 
 ## 双指针
 | OJ       | #   | Title                                                                                                               | C++ Solution                                                                                                                   | Illustration                                                                 | Importance Leval |
@@ -131,7 +132,7 @@
 | LeetCode | 206 | 反转链表                                                                                                                     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedList.cpp)         |              | ★★★              |
 | LeetCode | 92  | 反转链表 II                                                                                                                  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedListII.cpp)       |              | ★★★              |
 | LeetCode | 237 | 删除链表中的节点                                                                                                             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/DeleteNodeInALinkedList.cpp)   |              | ★★★              |
-| LeetCode | 105 | [复制带随机指针的链表](https://www.lintcode.com/problem/copy-list-with-random-pointer/my-submissions?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/CopyListWithRandomPointer.cpp) |              | ★★★              |
+| LintCode | 105 | [复制带随机指针的链表](https://www.lintcode.com/problem/copy-list-with-random-pointer/my-submissions?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/CopyListWithRandomPointer.cpp) | 剑指offer    | ★★★              |
 
 ## 二分搜索
 | OJ       | #   | Title                        | C++ Solution                                                                                                                        | Illustration | Importance Leval |
