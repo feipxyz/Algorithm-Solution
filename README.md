@@ -165,3 +165,9 @@
 | LeetCode | 54  | [螺旋矩阵](https://leetcode.com/problems/spiral-matrix/)                                                                 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/SpiralMatrix.cpp)                            | 剑指offer    | ★★★              |
 | LintCode | 46  | [数组中超过一半的元素](https://www.lintcode.com/problem/majority-element/description?_from=ladder&&fromId=6)             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/MajorityElement.cpp)                         | 剑指offer    | ★★★              |
 | LintCode | 379 | [将数组重新排序以构造最小值](https://www.lintcode.com/problem/reorder-array-to-construct-the-minimum-number/description) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/ReorderArrayToConstructTheMinimumNumber.cpp) | 剑指offer    | ★★★              |
+| LintCode | 3   | [统计数字](https://www.lintcode.com/problem/digit-counts/description?_from=ladder&&fromId=6)                             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Array/DigitCounts.cpp)                             | 剑指offer    | ★★★              |
+
+## 数学
+| OJ       | #   | Title                                              | C++ Solution                                                                         | Illustration | Importance Leval |
+| -------- | --- | -------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------ | ---------------- |
+| LeetCode | 263 | [丑数](https://leetcode.com/problems/ugly-number/) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Math/UglyNumber.cpp) |              | ★★★              |
