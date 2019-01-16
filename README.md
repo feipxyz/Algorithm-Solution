@@ -47,9 +47,10 @@
 | LeetCode | 122 | 买卖股票的最佳时机 II | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Greedy/BestTimeToBuyAndSellStockII.cpp) |             | ★★★              |
 
 ## 分治法
-| OJ       | #   | Title                 | C++ Solution                                                                                                           | Illustration | Importance Leval |
-| -------- | --- | --------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode | 215 | 数组中的第K个最大元素 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Divide%20and%20Conquer/KthLargestElementInAnArray.cpp) |             | ★★★              |
+| OJ       | #   | Title                                                                                       | C++ Solution                                                                                                           | Illustration | Importance Leval |
+| -------- | --- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 215 | 数组中的第K个最大元素                                                                       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Divide%20and%20Conquer/KthLargestElementInAnArray.cpp) |              | ★★★              |
+| LintCode | 532 | [逆序对](https://www.lintcode.com/problem/reverse-pairs/description?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Divide%20and%20Conquer/ReversePairs.cpp)               | 剑指offer    | ★★★              |
 
 ## 回溯法
 | OJ       | #   | Title       | C++ Solution                                                                                          | Illustration | Importance Leval |
