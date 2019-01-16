@@ -21,4 +21,12 @@
 | 2019-01-15 | [字符串中的第一个唯一字符](https://www.lintcode.com/problem/first-unique-character-in-a-string/description?_from=ladder&&fromId=6)     |
 | 2019-01-15 | [快速排序](https://www.lintcode.com/problem/sort-integers-ii/description)                                                              |
 | 2019-01-15 | [数组中第K大排序](https://leetcode.com/problems/kth-largest-element-in-an-array/)                                                      |
-| 2019-01-16 | [数组中超过一半的元素](https://www.lintcode.com/problem/majority-element/description?_from=ladder&&fromId=6)                           | 
+| 2019-01-16 | [数组中超过一半的元素](https://www.lintcode.com/problem/majority-element/description?_from=ladder&&fromId=6)                           |
+| 2019-01-16 | [最大子列和](https://www.lintcode.com/problem/maximum-subarray/description?_from=ladder&&fromId=6)                                     |
+| 2019-01-16 | [逆序对](https://www.lintcode.com/problem/reverse-pairs/description?_from=ladder&&fromId=6)                                            |
+| 2019-01-16 | [螺旋矩阵 II](https://leetcode.com/problems/spiral-matrix-ii/)                                                                         |
+| 2019-01-16 | [两个链表的交叉](https://www.lintcode.com/problem/intersection-of-two-linked-lists/leaderboard?_from=ladder&&fromId=6)                 |
+| 2019-01-16 | [将数组重新排序以构造最小值](https://www.lintcode.com/problem/reorder-array-to-construct-the-minimum-number/description)               |
+| 2019-01-16 | [统计数字](https://www.lintcode.com/problem/digit-counts/description?_from=ladder&&fromId=6)                                           |
+| 2019-01-16 | [丑数](https://leetcode.com/problems/ugly-number/)                                                                                     |
+| 2019-01-16 | [丑数 II](https://leetcode.com/problems/ugly-number-ii/)                                                                               |
