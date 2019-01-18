@@ -30,3 +30,6 @@
 | 2019-01-16 | [统计数字](https://www.lintcode.com/problem/digit-counts/description?_from=ladder&&fromId=6)                                           |
 | 2019-01-16 | [丑数](https://leetcode.com/problems/ugly-number/)                                                                                     |
 | 2019-01-16 | [丑数 II](https://leetcode.com/problems/ugly-number-ii/)                                                                               |
+| 2019-01-17 | [旋转字符串](https://www.lintcode.com/problem/rotate-string/description?_from=ladder&&fromId=6)                                        |
+| 2019-01-17 | [两数之和](https://www.lintcode.com/problem/two-sum/description?_from=ladder&&fromId=6)                                                |
+| 2019-01-17 | [落单的数](https://www.lintcode.com/problem/single-number/description?_from=ladder&&fromId=6)                                          | 
