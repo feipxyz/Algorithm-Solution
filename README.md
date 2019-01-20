@@ -147,11 +147,12 @@
 
 
 ## 位运算
-| OJ       | #   | Title            | C++ Solution                                                                                              | Illustration | Importance Leval |
-| -------- | --- | ---------------- | --------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode | 29  | 两数相除         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |             | ★★★              |
-| LeetCode | 191 | 位1的个数        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/NumberOf1Bits.cpp)     |             | ★★★              |
-| LeetCode | 136 | 只出现一次的数字 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/SingleNumber.cpp)      |             | ★★★              |
+| OJ       | #   | Title                                                                                                 | C++ Solution                                                                                              | Illustration | Importance Leval |
+| -------- | --- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 29  | 两数相除                                                                                              | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/DivideTwoIntegers.cpp) |              | ★★★              |
+| LeetCode | 191 | 位1的个数                                                                                             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/NumberOf1Bits.cpp)     |              | ★★★              |
+| LeetCode | 136 | 只出现一次的数字                                                                                      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/SingleNumber.cpp)      |              | ★★★              |
+| LintCode | 1   | [不用加减乘除做加法](https://www.lintcode.com/problem/a-b-problem/description?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Bit%20Manipulation/AddingTwoNumbers.cpp)  | 剑指offer    | ★★★              |
 
 ## 数组
 | OJ       | #   | Title                                                                                                                    | C++ Solution                                                                                                       | Illustration | Importance Leval |
