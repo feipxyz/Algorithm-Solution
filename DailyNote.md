@@ -32,4 +32,6 @@
 | 2019-01-16 | [丑数 II](https://leetcode.com/problems/ugly-number-ii/)                                                                               |
 | 2019-01-17 | [旋转字符串](https://www.lintcode.com/problem/rotate-string/description?_from=ladder&&fromId=6)                                        |
 | 2019-01-17 | [两数之和](https://www.lintcode.com/problem/two-sum/description?_from=ladder&&fromId=6)                                                |
-| 2019-01-17 | [落单的数](https://www.lintcode.com/problem/single-number/description?_from=ladder&&fromId=6)                                          | 
+| 2019-01-17 | [落单的数](https://www.lintcode.com/problem/single-number/description?_from=ladder&&fromId=6)                                          |
+| 2019-01-20 | [不用加减乘除做加法](https://www.lintcode.com/problem/a-b-problem/description?_from=ladder&&fromId=6)                                  |
+| 2019-01-22 | [二叉树路径和](https://leetcode.com/problems/path-sum/)                                                                                | 
