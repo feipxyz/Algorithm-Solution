@@ -138,13 +138,14 @@
 | LintCode | 105 | [复制带随机指针的链表](https://www.lintcode.com/problem/copy-list-with-random-pointer/my-submissions?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/CopyListWithRandomPointer.cpp) | 剑指offer    | ★★★              |
 
 ## 二分搜索
-| OJ       | #   | Title                        | C++ Solution                                                                                                                        | Illustration | Importance Leval |
-| -------- | --- | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LeetCode | 34  | 排序数组中查找元素的首末位置 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |             | ★                |
-| LeetCode | 50  | Pow(x, n)                    | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Pow_x_n.cpp)                                        |             | ★★★              |
-| LeetCode | 69  | Sqrt(x)                      | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Sqrt_x.cpp)                                         |             | ★★★              |
-| LeetCode | 33  | 搜索旋转排序数组             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/SearchInRotatedSortedArray.cpp)                     |             | ★★★              |
-| LeetCode | 81  | 搜索旋转排序数组 II          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/SearchInRotatedSortedArrayII.cpp)                   |             | ★★★              |
+| OJ       | #   | Title                                                                                              | C++ Solution                                                                                                                        | Illustration | Importance Leval |
+| -------- | --- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LeetCode | 34  | 排序数组中查找元素的首末位置                                                                       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/FindFirstAndLastPositionOfElementInSortedArray.cpp) |              | ★                |
+| LeetCode | 50  | Pow(x, n)                                                                                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Pow_x_n.cpp)                                        |              | ★★★              |
+| LeetCode | 69  | Sqrt(x)                                                                                            | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/Sqrt_x.cpp)                                         |              | ★★★              |
+| LeetCode | 33  | 搜索旋转排序数组                                                                                   | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/SearchInRotatedSortedArray.cpp)                     |              | ★★★              |
+| LeetCode | 81  | 搜索旋转排序数组 II                                                                                | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/SearchInRotatedSortedArrayII.cpp)                   |              | ★★★              |
+| LintCode | 61  | [搜索区间](https://www.lintcode.com/problem/search-for-a-range/description?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Binary%20Search/SearchForARange.cpp)                                | 搜索区间     | ★★★              |
 
 
 ## 位运算
