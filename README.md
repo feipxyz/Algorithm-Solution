@@ -79,6 +79,7 @@
 | LeetCode | 102 | [二叉树的后层序遍历](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/BinaryTreeLevelOrderTraversal.cpp)                      |              | ★★★              |
 | LeetCode | 112 | [二叉树路径和](https://leetcode.com/problems/path-sum/)                                | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/PathSum.cpp)                                            |              | ★★★              |
 | LeetCode | 101 | [对称二叉树](https://leetcode.com/problems/symmetric-tree/)                            | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/SymmetricTree.cpp)                                      |              | ★                |
+| LeetCode | 104 | [二叉树的最大深度](https://leetcode.com/problems/maximum-depth-of-binary-tree/)        | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Tree/MaximumDepthOfBinaryTree.cpp)                           |              | ★                | 
 
 ## 堆
 | OJ       | #   | Title                 | C++ Solution                                                                                         | Illustration | Importance Leval |
