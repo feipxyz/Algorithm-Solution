@@ -116,14 +116,15 @@
 | leetCode | 19  | [删除链表的倒数第N个节点](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                          | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Two%20Pointers/RemoveNthNodeFromEndOfList.cpp)                 | 剑指offer                                                                    | ★★★              |
 
 ## 字符串
-| OJ       | #   | Title                  | C++ Solution                                                                                                     | Illustration | Importance Leval |
-| -------- | --- | ---------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- | ---------------- |
-| LintCode | 212 | 空格替换               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp)                     | 剑指offer   |                  |
-| LeetCode | 28  | 实现strStr             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)                      |             | ★★★              |
-| LeetCode | 30  | 与所有单词相关联的字串 | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SubstringwithConcatenationOfAllWords.cpp) |             | ★★★              |
-| LeetCode | 43  | 字符串相乘             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MultiplyStrings.cpp)                      |             | ★★★              |
-| LeetCode | 49  | 字母异位词分组         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/GroupAnagrams.cpp)                        |             | ★                |
-| LeetCode | 738 | 单调递增的数字         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MonotoneIncreasingDigits.cpp)             |             | ★★★              |
+| OJ       | #   | Title                                                | C++ Solution                                                                                                     | Illustration | Importance Leval |
+| -------- | --- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------ | ---------------- |
+| LintCode | 212 | 空格替换                                             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SpaceReplacement.cpp)                     | 剑指offer    |                  |
+| LeetCode | 28  | 实现strStr                                           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/ImplementStrstr.cpp)                      |              | ★★★              |
+| LeetCode | 30  | 与所有单词相关联的字串                               | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/SubstringwithConcatenationOfAllWords.cpp) |              | ★★★              |
+| LeetCode | 43  | 字符串相乘                                           | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MultiplyStrings.cpp)                      |              | ★★★              |
+| LeetCode | 49  | 字母异位词分组                                       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/GroupAnagrams.cpp)                        |              | ★                |
+| LeetCode | 738 | 单调递增的数字                                       | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/MonotoneIncreasingDigits.cpp)             |              | ★★★              |
+| LeetCode | 38  | [报数](https://leetcode.com/problems/count-and-say/) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/String/CountAndSay.cpp)             |              | ★★★              |
 
 ## 链表
 | OJ       | #   | Title                                                                                                                        | C++ Solution                                                                                                 | Illustration | Importance Leval |
@@ -133,7 +134,7 @@
 | LeetCode | 61  | 旋转链表                                                                                                                     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/RotateList.cpp)                |              | ★★★              |
 | LeetCode | 86  | 分割链表                                                                                                                     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/PartitionList.cpp)             |              | ★★★              |
 | LeetCode | 206 | 反转链表                                                                                                                     | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedList.cpp)         |              | ★★★              |
-| LeetCode | 92  | 反转链表 II                                                                                                                  | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedListII.cpp)       |              | ★★★              |
+| LeetCode | 92  | [反转链表 II](https://leetcode.com/problems/reverse-linked-list-ii/)                                                         | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/ReverseLinkedListII.cpp)       |              | ★★★              |
 | LeetCode | 237 | 删除链表中的节点                                                                                                             | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/DeleteNodeInALinkedList.cpp)   |              | ★★★              |
 | LintCode | 105 | [复制带随机指针的链表](https://www.lintcode.com/problem/copy-list-with-random-pointer/my-submissions?_from=ladder&&fromId=6) | [C++](https://github.com/feipxyz/Algorithm-Solution/blob/master/Linked%20List/CopyListWithRandomPointer.cpp) | 剑指offer    | ★★★              |
 
